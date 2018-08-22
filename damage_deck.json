@@ -1,0 +1,18 @@
+
+{
+"BLINDED PILOT (Pilot)": { "text": "While you perform an attack, you can modify your dice only by spending (force) for their default effect. Action: Repair this card.", "count":2},
+"CONSOLE FIRE (Ship)": { "text": "Before you engage, roll 1 attack die. On a (damage) result, suffer 1 (damage) damage. Action: Repair this card. (x2)", "count":2},
+"DAMAGED ENGINE (Ship)": { "text":  "Increase the difficulty of your turn maneuvers. (x2)", "count":2},
+"DAMAGED SENSOR ARRAY (Ship)": { "text": "You cannot perform any actions except the (focus) action and the actions from damage cards. Action: Repair this card. (x2)", "count":2},
+"DIRECT HIT (Ship)": { "text": "Suffer 1 (damage) damage. Then repair this card. (x5)", "count":5},
+"DISABLED POWER REGULATOR (Ship)": { "text": "Before you engage, gain 1 ion token. After you execute an ion maneuver, repair this card. (x2)", "count":2},
+"FUEL LEAK (Ship)": { "text": "After you suffer 1 (critical) damage, suffer 1 (damage) damage and repair this card. Action: Repair this card. (x4)", "count":4},
+"HULL BREACH (Ship)": { "text": "Before you would suffer 1 or more (damage) damage, suffer that much (critical) damage instead. Action: Repair this card. (x2)", "count":2},
+"LOOSE STABILIZER (Ship)": { "text": "After you execute a non-straight maneuver (straight), suffer 1 (damage) damage and repair this card. Action: Repair this card. (x2)", "count":2},
+"PANICKED PILOT (Pilot)": { "text": "Gain 2 stress tokens. Then repair this card. (x2)", "count":2},
+"STRUCTURAL DAMAGE (Ship)": { "text": "While you defend, roll 1 fewer defense die. (x2)", "count":2},
+"STUNNED PILOT (Pilot)": { "text": "After you execute a maneuver, if you moved through or overlapped an obstacle, suffer 1 (damage) damage. (x2)", "count":2},
+"WOUNDED PILOT (Pilot)": { "text": "After you perform an action, roll 1 attack die. On a (damage) or (critical) result, gain 1 stress token. Action: Repair this card. (x2)", "count":2},
+"WEAPONS FAILURE (Ship)": { "text": "While you perform an attack, roll 1 fewer attack die. Action: Repair this card. (x2) " , "count":2}
+}
+
