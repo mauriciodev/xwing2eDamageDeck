@@ -1,0 +1,29 @@
+
+{
+    "Rebels": {
+        "Attack Shutte":"attack-shuttle.png",
+        "A-wing": "rz-1-a-wing.png",
+        "U-wing": "ut-60d-u-wing.png",
+        "Auzituck": "auzituck-gunship.png",
+        "E-wing": "e-wing.png",
+        "Sheathipede":"sheathipede-class-shuttle.png",
+        "VCX-100":"vcx-100-light-freighter.png",
+        "arc":"arc-170-starfighter.png",
+        "y-wing":"btl-a4-y-wing.png",
+        "hwk-290":"hwk-290-light-freighter.png",
+        "X-wing":"t-65-x-wing.png",
+        "YT-2400":"yt-2400-light-freighter.png",
+        "B-wing":"a-sf-01-b-wing.png",
+        "K-wing":"btl-s8-k-wing.png",
+        "YT-1300":"modified-yt-1300-light-freighter.png",
+        "TIE Fighter":"tie-ln-fighter.png",
+        "Z-95":"z-95-af4-headhunter.png"
+    },
+    "Empire": {
+
+    },
+    "Scum": {
+
+    }
+}
+
